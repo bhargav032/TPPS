@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "eec2665d65580d76",
+    "type": "split",
+    "children": [
+      {
+        "id": "401976da3c35bd10",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Table.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "d652573c2b27ad63",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Table.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7e03fe92a465f98",
+    "type": "split",
+    "children": [
+      {
+        "id": "29821c1ca41fc20b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c321399f4db2a43",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "74ea98177c42e558",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7de0382b32ff8e98",
+    "type": "split",
+    "children": [
+      {
+        "id": "88b29048ca8cc7d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24ed06c0051ab1ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Table.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "401976da3c35bd10",
+  "lastOpenFiles": [
+    "Table.md",
+    "Search Bar.md",
+    "TPP Index.md",
+    "U011 TP Dashboard.md",
+    "TP Dashboard.md",
+    "Authority Dashboard.md",
+    "Add Block.md",
+    "Page List.md",
+    "Layout.md",
+    "Authority DAshboard.md"
+  ]
+}
