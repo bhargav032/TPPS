@@ -13,17 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "c42f1eb67caebb09",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Technical/Table.md",
-            "mode": "preview"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c42f1eb67caebb09",
+  "active": "d5100286232c9eba",
   "lastOpenFiles": [
     "Technical/Table.md",
     "Untitled.md",
