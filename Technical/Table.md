@@ -1,19 +1,19 @@
 ### TpStage
-TpStage 	|type 				| remark 		| description 
-	-		|-					|-				| -
-id			| int 				| PK 			| 
-name 		| varchar(40) 		| 				|
-status 		| enum ['0','1'] 	| as select '1'	|
-createdBy 	| int 				| FK			| User-->id
-createdOn 	| date 				|				|
-editedBy 	| int 				| FK			| User-->id
-editedOn 	| date 				|				|
+|TpStage 	|type 				| remark 		| description 	|
+|	---		|----				|----			| ----			|
+|id			| int 				| PK 			| 				|
+|name 		| varchar(40) 		| 				| 				|
+|status 	| enum ['0','1'] 	| as select '1'	|				|
+|createdBy 	| int 				| FK			| User-->id		|
+|createdOn 	| date 				|				|				|
+|editedBy 	| int 				| FK			| User-->id		|
+|editedOn 	| date 				|				|				|
 
 
 ### Tps
-Tps 		| type 				| remark 		| description 
-	-		|		-			|-				| -
-id 			| int 				| PK			|
+|Tps 		| type 				| remark 		| description |
+|---		|---				|---			| ---|
+|id 			| int 				| PK			|  
 no 			| varchar(10) 		|				|
 name 		| varchar(50) 		|				|
 authority 	| int 				| FK			| Authority-->id 
