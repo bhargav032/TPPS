@@ -271,3 +271,6 @@ editedBy 			| int 				| FK
 editedOn 			| date 				|
 
 
+TPSetting	 		| type 				| remark
+	-				|-					|-
+
