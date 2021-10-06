@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "401976da3c35bd10",
+        "id": "d5100286232c9eba",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Table.md",
+            "file": "Technical/Table.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "d652573c2b27ad63",
+        "id": "c42f1eb67caebb09",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Table.md",
-            "mode": "source"
+            "file": "Technical/Table.md",
+            "mode": "preview"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Table.md",
+                "file": "Technical/Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +96,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "401976da3c35bd10",
+  "active": "c42f1eb67caebb09",
   "lastOpenFiles": [
+    "Technical/Table.md",
+    "Untitled.md",
+    "TPP Index.md",
+    "U001 Authority Dashboard.md",
+    "U011 TP Dashboard.md",
     "Table.md",
     "Search Bar.md",
-    "TPP Index.md",
-    "U011 TP Dashboard.md",
     "TP Dashboard.md",
     "Authority Dashboard.md",
-    "Add Block.md",
-    "Page List.md",
-    "Layout.md",
-    "Authority DAshboard.md"
+    "Add Block.md"
   ]
 }

@@ -1,5 +1,8 @@
 {
   "promptDelete": false,
   "spellcheck": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "foldHeading": true,
+  "showLineNumber": true
 }
